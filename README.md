@@ -7,7 +7,7 @@
 
 - 🏢 I’m currently working at [RCSoft](https://www.rcsoft.pt)
 
-- 📖 I’m currently learning **React.js and Solidity**
+- 📖 I’m currently learning **React.js, Node.js and Solidity**
 
 - 🤝 I'm looking for a new **job/collaboration opportunity**
 
