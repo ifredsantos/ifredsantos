@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifredsantos&theme=onedark&margin-w=15" alt="ifredsantos" /></a> </p>
 
-- 🏢 I’m currently working at [RCSoft](https://www.rcsoft.pt)
+- 🏢 .NET developer at [RCSoft](https://www.rcsoft.pt)
 
 - 📖 I’m currently learning **React.js, Node.js and Solidity**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **fred.santos@outlook.pt**
 
-- ⚡ Fun fact **The next time you encounter a bug in your code, you can remember that it all started with a real-life insect! 🪲**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
